@@ -29,6 +29,8 @@ def solution(N, start, end, counts):
             #순서가 달라서 수정함
             cur += N
 
+
+
             while True: # 자리 정리
                 c = -2
                 d = T.index(data[c])
